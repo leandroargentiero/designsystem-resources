@@ -40,6 +40,7 @@
 * [How To Be More Organized While Designing UI](https://medium.com/sketch-app-sources/how-to-be-more-organized-while-designing-ui-90d2d69cfb4f)
 
 ### Color
+* [What you need to know about colors & accessibility](https://color.review/)
 * [Color in Design Systems](https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3)
 * [Speccing Colors in Design Systems](https://medium.com/@ethersystem/speccing-colors-in-design-systems-f06e91ed9ca0)
 * [Designing in color](https://medium.freecodecamp.org/designing-in-color-abd358660a7b)
