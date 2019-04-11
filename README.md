@@ -46,6 +46,8 @@
 * [Designing in color](https://medium.freecodecamp.org/designing-in-color-abd358660a7b)
 * [One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 * [A framework to create an accessible and harmonious color system for faster design-dev handoff](https://blog.prototypr.io/a-framework-to-create-accessible-and-harmonious-color-system-for-faster-design-dev-handoff-8138b3a9604d)
+* [Re-approaching Color - Lyft Design](https://design.lyft.com/re-approaching-color-9e604ba22c88)
+* [ColorBox by Lyft Design](https://www.colorbox.io)
 
 ### Typography
 * [Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
