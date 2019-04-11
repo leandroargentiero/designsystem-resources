@@ -70,6 +70,7 @@
 * [Lightning Design System by Salesforce](https://www.lightningdesignsystem.com/)
 * [Ahoy! by Teamleader](https://teamleader.design/ahoy)
 * [Carbon Design System by IBM](https://www.carbondesignsystem.com/)
+* [Mailchimp](https://ux.mailchimp.com/patterns)
 
 
 
