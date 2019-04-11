@@ -71,7 +71,4 @@
 * [Ahoy! by Teamleader](https://teamleader.design/ahoy)
 * [Carbon Design System by IBM](https://www.carbondesignsystem.com/)
 * [Mailchimp](https://ux.mailchimp.com/patterns)
-
-
-
-
+* [Nachos by Trello](https://design.trello.com)
