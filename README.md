@@ -47,7 +47,6 @@
 * [One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 * [A framework to create an accessible and harmonious color system for faster design-dev handoff](https://blog.prototypr.io/a-framework-to-create-accessible-and-harmonious-color-system-for-faster-design-dev-handoff-8138b3a9604d)
 * [Re-approaching Color - Lyft Design](https://design.lyft.com/re-approaching-color-9e604ba22c88)
-* [ColorBox by Lyft Design](https://www.colorbox.io)
 
 ### Typography
 * [Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
@@ -56,23 +55,22 @@
 * [Responsive Modular Typography Scales in CSS](https://blog.envylabs.com/responsive-typographic-scales-in-css-b9f60431d1c4)
 * [Typography in Design Systems](https://medium.com/@ethersystem/typography-in-design-systems-d61bf5d8a333)
 
-
-### Space
-* [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
-* [A framework for creating a predictable & harmonious spacing system for faster design-dev handoff](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c)
-
-### Motion
-* [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-
-
-### Iconography
-* [The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
-
+### Spacing
+* [The 8pt Grid: Consistent Spacing in UI Design](https://blog.prototypr.io/the-8pt-grid-consistent-spacing-in-ui-design-with-sketch-577e4f0fd520)
+* [8pt Material Design GUI Templates](https://medium.com/@_bklmn/8pt-gui-templates-ed8798badab3)
 
 ### Tools
-* [A Dictionary for a Design Language](https://blog.prototypr.io/a-dictionary-for-a-design-language-3afae1579586)
+* [ColorBox by Lyft Design](https://www.colorbox.io)
 * [1–2–3 Guide for Managing Design Assets](https://medium.com/sketch-app-sources/1-2-3-guide-for-managing-design-assets-54c27080239)
 
 ### Examples From Other Companies
 
 * [Design Systems REPO](https://designsystemsrepo.com/)
+* [Lexicon Design](https://lexicondesign.io/docs/lexicon/)
+* [Lightning Design System by Salesforce](https://www.lightningdesignsystem.com/)
+* [Ahoy! by Teamleader](https://teamleader.design/ahoy)
+* [Carbon Design System by IBM](https://www.carbondesignsystem.com/)
+
+
+
+
