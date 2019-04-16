@@ -59,6 +59,9 @@
 * [The 8pt Grid: Consistent Spacing in UI Design](https://blog.prototypr.io/the-8pt-grid-consistent-spacing-in-ui-design-with-sketch-577e4f0fd520)
 * [8pt Material Design GUI Templates](https://medium.com/@_bklmn/8pt-gui-templates-ed8798badab3)
 
+### Layout & Grid
+* [Building Better UI Designs With Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
+
 ### Tools
 * [ColorBox by Lyft Design](https://www.colorbox.io)
 * [1–2–3 Guide for Managing Design Assets](https://medium.com/sketch-app-sources/1-2-3-guide-for-managing-design-assets-54c27080239)
