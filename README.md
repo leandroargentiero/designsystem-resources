@@ -59,6 +59,7 @@
 * [The 8pt Grid: Consistent Spacing in UI Design](https://blog.prototypr.io/the-8pt-grid-consistent-spacing-in-ui-design-with-sketch-577e4f0fd520)
 * [8pt Material Design GUI Templates](https://medium.com/@_bklmn/8pt-gui-templates-ed8798badab3)
 * [8-Point Grid](https://spec.fm/specifics/8-pt-grid)
+* [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 
 ### Layout & Grid
 * [Building Better UI Designs With Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
