@@ -64,6 +64,8 @@
 ### Layout & Grid
 * [Building Better UI Designs With Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
 
+### Design Tokens
+* [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 ### Tools
 * [ColorBox by Lyft Design](https://www.colorbox.io)
 * [1–2–3 Guide for Managing Design Assets](https://medium.com/sketch-app-sources/1-2-3-guide-for-managing-design-assets-54c27080239)
